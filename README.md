@@ -1,2 +1,5 @@
 # hello_world
-just another repo
+
+Hello world!
+
+srcNabu here, I like php and JavaScript
